@@ -1,0 +1,5 @@
+Name: Wizard
+Attack: 25
+Health: 30
+Drop: Facial Hair
+Catchphrase: You shall not pass!

@@ -1,0 +1,5 @@
+Name: Mrs.Accident
+Attack: 35
+Health: 5
+Drop: Wheelchair
+Catchphrase: Watch out I'm gonna blow!

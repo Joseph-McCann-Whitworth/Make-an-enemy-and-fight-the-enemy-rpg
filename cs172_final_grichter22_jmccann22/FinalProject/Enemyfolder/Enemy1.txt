@@ -1,0 +1,5 @@
+Name: Nerd
+Attack: 8
+Health: 70
+Drop: Elixir
+Catchphrase: I might be weak but I'm no idiot

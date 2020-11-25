@@ -1,0 +1,5 @@
+Name: Lord Weiner
+Attack: 18
+Health: 50
+Drop: Meat
+Catchphrase: You'll never eat my flesh

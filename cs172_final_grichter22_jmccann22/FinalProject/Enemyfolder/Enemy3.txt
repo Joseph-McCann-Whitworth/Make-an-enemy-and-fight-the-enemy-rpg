@@ -1,0 +1,5 @@
+Name: Dog
+Attack: 13
+Health: 70
+Drop: Leg
+Catchphrase: Woof!
